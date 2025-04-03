@@ -1,7 +1,3 @@
-## Hi there 👋
 <p align="center">
-  <img src=https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Eyooo&fontColor=dark&section=header&animation=twinkling&textBg=false&reversal=false
-
-/>
+  <img src="https://capsule-render.vercel.app/api?text=Eyooo!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
