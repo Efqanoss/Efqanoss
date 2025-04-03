@@ -7,6 +7,9 @@
 </h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px; margin-top: 30px; animation: fadeIn 2s;">
+  <br>
+  <br>
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="70" height="70" style="transition: transform 0.3s;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="70" height="70" style="transition: transform 0.3s;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="70" height="70" style="transition: transform 0.3s;">
