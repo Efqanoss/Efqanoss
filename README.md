@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src=https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&fontColor=FF0000&section=header&textBg=false&gradient=red,orange,yellow
+  <img src=https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Eyooo&fontColor=dark&section=header&animation=twinkling&textBg=false&reversal=false
 
 />
 </p>
